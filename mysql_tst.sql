@@ -1,3 +1,3 @@
---rev 1.0---
+--rev 2.0---
 
 select name from v$database;
